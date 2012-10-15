@@ -1,0 +1,33 @@
+* Anotace projektu
+  Zkoumání možností nových metod masivního zpracování dat v
+  astrofyzice. Důraz je kladen na mezioborovou a zahraniční
+  spolupráci. Výstupy by měli být aplikovatelné při vzdělávání nové
+  genereace astronomů (Astroinformatika, Data-Driven Science)
+
+* Odborná charakteristika projektu
+  Exploitace pokročilých metod informatiky, strojového učení a
+  dobývání znalostí na astrofyzikální data. Hlavními zdroji dat jsou
+  Ondřejovský archiv s cca 10E4 spekter a Slounův digitální archiv s
+  cca 1E6 spekter.  
+* Předpokládané výstupy projektu
+  Nalezení nových metod automatické klasifikace spekter. Navázání
+  spolupráce se zahraničními kolegy z Itálie (projekt
+  DAME). Mezioborová spolupráce s informatiky a ostatními vědami s
+  podobnými problémy (bio-informatika atd.). Konzultace bakalářských a
+  diplomových prací z oblasti astroinformatiky.
+* Plánovaná účast na odborných konferencích hrazená z pospory projektu
+  Zatím nevím
+* Seznam a stručná cahrakteristika zásadních odborných výsledků
+** Postery
+   ADASS 2011, Paris, France, 6-10 November 2011
+   Supervised Data Mining of Emission-Line Stars
+   http://dame.dsf.unina.it/astroinformatics/posters/defposter.pdf
+** Přednášky na koneferencích
+*** SoftProcessing, Ostrava 2012 
+    Practical Astroinformatics
+    http://softprocessing.cs.vsb.cz/Prednasejici.html
+
+*** F0020 Podzimní astronomický kurs, Vyškov
+    Machine learning, data processing
+** Účast na konferencích
+   ADA-VII Astronomical Data Analysis (14-18.05 2012)
