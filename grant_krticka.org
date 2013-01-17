@@ -31,3 +31,30 @@
     Machine learning, data processing
 ** Účast na konferencích
    ADA-VII Astronomical Data Analysis (14-18.05 2012)
+   Letní škola  zaměřená na pokročilé metody analýzy astronomických
+   dat. Praktická cvičení na témata: Wavelets, sparse representations and
+   denoising, deconvolution, Morphological Component Analysis, inpainting, atd.
+
+** odborna charakteristika dosazenych vysledku: 
+   strucne prosim napiste, ceho se podarilo v roce 2012 dosahnout, staci dve az tri vety
+
+*** Analýza SDSS DR8 spekter. Identifikovány anomální spekra s možnou
+    emisí v oblasti H-alfa.
+
+*** Klasifikace Ondřejovského archívu s použitím technologií Virtuální
+    observatoře. Příprava a čištění těchto dat pro použití při
+    automatické klasifikaci s použitím waveletové analýzy.
+
+
+** vysledne vystupy projektu: 
+   clanky ve sbornicich a casopisech, obhajene dizertace v roce 2012
+  
+*** Petr Škoda, Jaroslav Vážný: Searching of New Emission-Line Stars using the
+    Astroinformatics Approach,,Astronomical Data Analysis Software and Systems XXI
+    ASP Conference Series, Vol. 461
+    http://www.aspbooks.org/publications/461/573.pdf
+
+** Vzdělávání
+   rozpracováno a dokončeno mnoho kurzů  z projektu www.cousera.org,
+   standfordské univerzity a www.udacity.com. např: Machine Learning, 
+   Computing for Data Analysis, atd.
