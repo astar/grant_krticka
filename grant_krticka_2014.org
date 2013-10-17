@@ -1,0 +1,49 @@
+* Anotace projektu
+  Zkoumání možností automatické klasifikace hvězdných spekter metodami
+  strojového učení. Vzhledem k rapidnímu nárůstu objemu dat v
+  astrofyzice je automatická klasifikace a vyhledávání určitých jevů
+  ve spektrech nejen užitečná, ale i nezbytná. Samotné učení je však
+  pouze malá část celého procesu a je nezbytné mít k dispozici
+  relativně velký konzistetní vzorek učících dat, pokud možno z
+  jednoho přístroje a zahrnující celou škálu studovaných jevů. Takový
+  vzorek je získán z unikátního archivu Onřejovského dalekohledu, kde
+  bylo napozorováno a zpracováno tisíce spekter. Tento zpracovaný
+  vzorek je použit i dalšími výzkumníky (např v rámci grantu GAČR
+  204/13/08195, jehož se účastníme). Dále jsou zkoumány ruzné možnosti
+  extrakce a reprezentace spekrálních charakteristik (např. waveletová
+  analýza), stejně tak jako možnost aplikace na jiné archívy (např
+  Sloanův Digitální Archiv SDSS)
+* Odborná charakteristika projektu
+  Reálná aplikace metod strojového učení je komplexní proces,
+  setavájící z předzpracování dat, extrakce učících charakteristik,
+  volby metod a fyzikální interpretace výsledků. Závažným problémem je
+  komparace ruzných postupů v každé fázi (je vhodné přidat další
+  vzorky?, není charakteristika XY vhodnější, jak moc lze metodu
+  zobecnit, hledáme-li jiné typy fenoménu?), jejichž volba je klíčová
+  k dosažení optimálních výsledků. Proto je kladen velký důraz na
+  provádění experimentů a jejich porovnání.
+* Předpokládané výstupy projektu
+  Publikace v recenzovaných časopisech a konferencích
+  Spolupráce na grantu GAČR 204/13/08195
+  Spolupráce s Faculty of Mathematics and Physics, Charles University in Prague
+  Spolupráce Faculty of Electrotechnics and Computer Science, VSB-TU Ostrava
+  viz http://www.ksi.mff.cuni.cz/astropara/team/
+
+* Plánovaná účast na odborných konferencích hrazená z pospory projektu
+** Astroinformatics 2014 
+** Statistical Challenges in 21st Cosmology http://sccc21.sim.ul.pt/
+** ADASS http://www.adass.org/
+   
+* Seznam a stručná cahrakteristika zásadních odborných výsledků
+Bromová P., Škoda, P., and Vážný, J.: Classification of Spectra of Emission
+Line Stars using Machine Learning Techniques, International Journal of
+Automation and Computing, special issue on Recent
+Advances on Complex Systems Control, Modeling and Prediction, Springer, 2013,
+in print
+
+Bromová, P. Bařina, D., Škoda, P., Vážný, J. and Zendulka, J."
+Classification of Spectra of Emission-line Stars Using Feature Extraction
+Based on Wavelet Transform",2013, in Astronomical
+Data Analysis Software and Systems (ADASS) XXIII, eds. Manset, N. and Forshay,
+P., ASP Conference. Series, San Francisco, in print
+
