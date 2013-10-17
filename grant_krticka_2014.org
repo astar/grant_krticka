@@ -13,15 +13,17 @@
   extrakce a reprezentace spekrálních charakteristik (např. waveletová
   analýza), stejně tak jako možnost aplikace na jiné archívy (např
   Sloanův Digitální Archiv SDSS)
+
 * Odborná charakteristika projektu
   Reálná aplikace metod strojového učení je komplexní proces,
-  setavájící z předzpracování dat, extrakce učících charakteristik,
+  sestavájící z předzpracování dat, extrakce učících charakteristik,
   volby metod a fyzikální interpretace výsledků. Závažným problémem je
   komparace ruzných postupů v každé fázi (je vhodné přidat další
   vzorky?, není charakteristika XY vhodnější, jak moc lze metodu
   zobecnit, hledáme-li jiné typy fenoménu?), jejichž volba je klíčová
   k dosažení optimálních výsledků. Proto je kladen velký důraz na
-  provádění experimentů a jejich porovnání.
+  provádění experimentů a jejich porovnání
+
 * Předpokládané výstupy projektu
   Publikace v recenzovaných časopisech a konferencích
   Spolupráce na grantu GAČR 204/13/08195
@@ -35,15 +37,45 @@
 ** ADASS http://www.adass.org/
    
 * Seznam a stručná cahrakteristika zásadních odborných výsledků
-Bromová P., Škoda, P., and Vážný, J.: Classification of Spectra of Emission
-Line Stars using Machine Learning Techniques, International Journal of
-Automation and Computing, special issue on Recent
-Advances on Complex Systems Control, Modeling and Prediction, Springer, 2013,
-in print
+** Bromová P., Škoda, P., and Vážný, J.: Classification of Spectra of Emission
+   Line Stars using Machine Learning Techniques, International Journal of
+   Automation and Computing, special issue on Recent
+   Advances on Complex Systems Control, Modeling and Prediction, Springer, 2013,
+   in print
 
-Bromová, P. Bařina, D., Škoda, P., Vážný, J. and Zendulka, J."
-Classification of Spectra of Emission-line Stars Using Feature Extraction
-Based on Wavelet Transform",2013, in Astronomical
-Data Analysis Software and Systems (ADASS) XXIII, eds. Manset, N. and Forshay,
-P., ASP Conference. Series, San Francisco, in print
+** Bromová, P. Bařina, D., Škoda, P., Vážný, J. and Zendulka, J."
+   Classification of Spectra of Emission-line Stars Using Feature Extraction
+   Based on Wavelet Transform",2013, in Astronomical
+   Data Analysis Software and Systems (ADASS) XXIII, eds. Manset, N. and Forshay,
+   P., ASP Conference. Series, San Francisco, in print
 
+** Petr Škoda, Jaroslav Vážný: Searching of New Emission-Line Stars using the
+   Astroinformatics Approach,,Astronomical Data Analysis Software and Systems XXI
+   ASP Conference Series, Vol. 461
+   http://www.aspbooks.org/publications/461/573.pdf
+
+** Přednášky na koneferencích
+*** SoftProcessing, Ostrava 2012 
+    Practical Astroinformatics
+    http://softprocessing.cs.vsb.cz/Prednasejici.html
+
+*** F0020 Podzimní astronomický kurs, Vyškov
+    Machine learning, data processing
+** Účast na konferencích a letni školách
+*** ADA-VII Astronomical Data Analysis (14-18.05 2012)
+    Letní škola  zaměřená na pokročilé metody analýzy astronomických
+    dat. Praktická cvičení na témata: Wavelets, sparse representations and
+    denoising, deconvolution, Morphological Component Analysis, inpainting, atd.
+*** GREAT Summer School on Astrostatistics and Data Mining
+*** Summer School in Statistics for Astronomers IX, Pennsylvania State University
+*** Tautenburg Summer School 2013
+   
+*** Analýza SDSS DR8 spekter. Identifikovány anomální spekra s možnou
+    emisí v oblasti H-alfa.
+
+*** Klasifikace Ondřejovského archívu s použitím technologií Virtuální
+    observatoře. Příprava a čištění těchto dat pro použití při
+    automatické klasifikaci s použitím waveletové analýzy.
+
+
+  
